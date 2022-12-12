@@ -41,7 +41,7 @@
   margin: 0;
   padding-left: 0;
 
-  border-top: 1px solid rgb(92, 97, 97);
+  border-top: 1px solid rgb(192, 196, 196);
 }
 .item {
   width: calc(100% / 3);
@@ -55,7 +55,7 @@
 }
 
 .item:not(:last-child) {
-  border-right: 1px solid rgb(92, 97, 97);
+  border-right: 1px solid rgb(192, 196, 196);
 }
 
 .label {
